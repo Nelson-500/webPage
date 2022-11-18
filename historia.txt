@@ -1,4 +1,4 @@
-hola a cada uno de ustedes, mi nombre es Nelson
+hola a todos, mi nombre es  Nelson
 
 edad 22 años
 altura 172 cm
@@ -6,8 +6,4 @@ nivel academico bachiller
 
 estoy estudiando ingenieria en sistemas Informaticos 
 actualmente estoy en proceso de cambio de universidad 
-y soy estudiante de platzi
-
-la mitad de mi carrera universitaria la cursé en la 
-UNIVERSIDAD DE EL SALVADOR y espero poder terminarla en 
-la UNICAES .
+y soy estudiante de platzi 

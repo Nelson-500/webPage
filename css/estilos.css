@@ -36,4 +36,7 @@ input[type=text], select {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   }    
+   }
+body{
+    font-family: 'Times New Roman', Times, serif;
+}    

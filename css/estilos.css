@@ -116,3 +116,20 @@ h2{
     margin: 10px;
     padding: 20px;
 }
+.hero-nav{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    min-height: 105px;
+    background-image: url(https://wallpaperaccess.com/full/1288325.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    .hero-nav__inner{
+        z-index: 1;
+    }

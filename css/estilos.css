@@ -7,7 +7,7 @@ select {
     padding: 12px 10px;
     margin: 8px 8px;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #ccc;relative
     border-radius: 4px;
     box-sizing: border-box;
     border: 2px solid rgb(19, 16, 19);
@@ -115,4 +115,13 @@ h2{
     text-align: center;
     margin: 10px;
     padding: 20px;
+}
+footer {
+    padding: 3px 0;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: rgb(43, 7, 7);
+	color: white;
+	text-align: center;
 }

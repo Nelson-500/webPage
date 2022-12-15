@@ -130,6 +130,5 @@ h2{
     background-size: cover;
     background-position: center;
     overflow: hidden;
-    .hero-nav__inner{
-        z-index: 1;
+
     }

@@ -23,3 +23,5 @@ Este programa de registro para clientes es realmente útil para cualquier negoci
 > así que si te interesa date una vuelta por allá y disfruta de todos sus 
 > beneficios.
 
+## Agradecimientos
+ - Se agradece al team Platzi por ser el creador del sistema de clases empleado par este sitio web

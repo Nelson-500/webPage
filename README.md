@@ -24,5 +24,7 @@ Este programa de registro para clientes es realmente útil para cualquier negoci
 > beneficios.
 
 ## Agradecimientos
- - Se agradece al team Platzi por ser el creador del sistema de clases empleado par este sitio web
+ - Se agradece al team Platzi por ser el creador del sistema de clases empleado para este sitio web
  - se agradece al los colaboradores, Nelson-500 y Cristian-500
+ - Se agradece a todo aquel que desee colaboorar en el proyecto en el futuro
+ - Gracias
